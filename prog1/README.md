@@ -1,5 +1,7 @@
 Justin Nguyen
+
 89-543-7433
+
 jngu178@lsu.edu
 
 Compile the program using g++ 
