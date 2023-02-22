@@ -1,3 +1,7 @@
+Justin Nguyen
+89-543-7433
+jngu178@lsu.edu
+
 Compile the program using g++ 
 type in "g++ -pthread -o sudoku-validator main.cpp"
 run the program using the command: ./sudoku-validator sudoku.txt results.txt
